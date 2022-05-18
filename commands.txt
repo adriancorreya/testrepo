@@ -2,4 +2,7 @@ git init => git initializing
 git status => list all untracked files
 git add -A => apply all changes to staging area
 git commit -m "msg" => commiting from staging area to local repo
+git remote add name path
+git push -u name branch
+
 
